@@ -15,7 +15,7 @@ GitHub_base
         1. $ git status
         注意：如果显示modified表示目标文件已被修改,但尚未同步
         2. $ git diff readme.txt
-        // 此处会显示修改内容
+        注意：此处会显示修改内容
     3. 同步上传
         git add readme.txt
 4. 总结
